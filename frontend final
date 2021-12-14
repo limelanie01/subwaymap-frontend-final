@@ -1,3 +1,7 @@
+#code inspirations:
+#https://stackoverflow.com/questions/62228489/python-folium-how-to-create-a-folium-map-marker-with-multiple-popup-text-line
+#https://www.python-graph-gallery.com/312-add-markers-on-folium-map
+
 import folium
 import requests
 
